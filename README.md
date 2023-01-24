@@ -1,3 +1,10 @@
+# Calendar APP
+
+# Development Steps
+
+1. Renombrar el archivo env.template por .env
+2. Hacer los cambios respectivos en las variables de entorno
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
